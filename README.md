@@ -1,3 +1,11 @@
+### Initialization
+
+1. Open `lua/theprimeagen/packer.lua`
+2. `:so`
+3. wait a few seconds for packer to clone and then `:q`
+4. Repeat 1 & 2
+5. `:PackerSync`
+
 ### ThePrimeagen's init.lua
 Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
 
